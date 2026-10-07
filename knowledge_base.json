@@ -1,0 +1,896 @@
+{
+  "Dengue Fever": {
+    "title_en": "Dengue Fever",
+    "title_ta": "டெங்கு காய்ச்சல்",
+    "description_en": "Mosquito-borne viral infection causing high fever and severe pain.",
+    "description_ta": "கொசுக்களால் பரவும் வைரஸ் தொற்று. அதிக காய்ச்சல் மற்றும் கடுமையான வலியை ஏற்படுத்தும்.",
+    "first_aid_en": [
+      "Hydrate with ORS, tender coconut water, or Nilavembu Kashayam (herbal drink).",
+      "Take Paracetamol only (No Aspirin).",
+      "Rest completely."
+    ],
+    "first_aid_ta": [
+      "ORS, இளநீர் அல்லது நிலவேம்பு கசாயம் குடிக்கவும்.",
+      "பாராசிட்டமால் (Paracetamol) மட்டும் எடுக்கவும்.",
+      "முழு ஓய்வு எடுக்கவும்."
+    ],
+    "when_to_see_doctor_en": "IMMEDIATELY if bleeding occurs.",
+    "when_to_see_doctor_ta": "ரத்தப்போக்கு இருந்தால் உடனே மருத்துவரை அணுகவும்."
+  },
+  "Chikungunya": {
+    "title_en": "Chikungunya",
+    "title_ta": "சிக்குன்குனியா",
+    "description_en": "Viral disease causing sudden fever and severe joint pain.",
+    "description_ta": "திடீர் காய்ச்சல் மற்றும் மூட்டு வலியை ஏற்படுத்தும் வைரஸ் நோய்.",
+    "first_aid_en": [
+      "Apply cold compress or castor oil to joints for relief.",
+      "Hydrate well.",
+      "Take mild painkillers."
+    ],
+    "first_aid_ta": [
+      "மூட்டுகளுக்கு குளிர்ந்த ஒத்தடம் அல்லது விளக்கெண்ணெய் தடவவும்.",
+      "நிறைய தண்ணீர் குடிக்கவும்.",
+      "வலி நிவாரணி எடுக்கவும்."
+    ],
+    "when_to_see_doctor_en": "If fever > 3 days.",
+    "when_to_see_doctor_ta": "காய்ச்சல் 3 நாட்களுக்கு மேல் இருந்தால்."
+  },
+  "Malaria": {
+    "title_en": "Malaria",
+    "title_ta": "மலேரியா",
+    "description_en": "Parasitic infection causing cycles of fever and chills.",
+    "description_ta": "நடுக்கம் மற்றும் காய்ச்சலை ஏற்படுத்தும் ஒட்டுண்ணி தொற்று.",
+    "first_aid_en": [
+      "Keep the patient cool.",
+      "Drink plenty of fluids.",
+      "Use mosquito nets."
+    ],
+    "first_aid_ta": [
+      "உடலை குளிர்ச்சியாக வைக்கவும்.",
+      "நிறைய தண்ணீர் குடிக்கவும்.",
+      "கொசுவலை உபயோகிக்கவும்."
+    ],
+    "when_to_see_doctor_en": "Immediately for blood test.",
+    "when_to_see_doctor_ta": "ரத்த பரிசோதனைக்கு உடனே செல்லவும்."
+  },
+  "Filaria": {
+    "title_en": "Lymphatic Filariasis",
+    "title_ta": "யானைக்கால் நோய்",
+    "description_en": "Parasitic disease causing swelling of legs (elephantiasis).",
+    "description_ta": "கால்களில் வீக்கத்தை (யானைக்கால்) ஏற்படுத்தும் ஒட்டுண்ணி நோய்.",
+    "first_aid_en": [
+      "Wash swollen limb with soap and water daily.",
+      "Keep the leg elevated.",
+      "Exercise the limb."
+    ],
+    "first_aid_ta": [
+      "வீங்கிய காலை தினமும் சோப்பு போட்டு கழுவவும்.",
+      "காலை உயர்த்தி வைக்கவும்.",
+      "பயிற்சி செய்யவும்."
+    ],
+    "when_to_see_doctor_en": "For DEC medication and management.",
+    "when_to_see_doctor_ta": "மருந்து மற்றும் சிகிச்சைக்கு."
+  },
+  "Scrub Typhus": {
+    "title_en": "Scrub Typhus",
+    "title_ta": "ஸ்க்ரப் டைபஸ் (செள்ளு காய்ச்சல்)",
+    "description_en": "Mite-borne disease causing fever and black scab.",
+    "description_ta": "பூச்சி கடித்து பரவும் நோய். காய்ச்சல் மற்றும் கருப்பு வடு வரும்.",
+    "first_aid_en": [
+      "Check body for black scab.",
+      "Take fever medication.",
+      "Seek help immediately."
+    ],
+    "first_aid_ta": [
+      "உடலில் கருப்பு வடு உள்ளதா என பார்க்கவும்.",
+      "காய்ச்சல் மாத்திரை எடுக்கவும்.",
+      "உதவி நாடவும்."
+    ],
+    "when_to_see_doctor_en": "Immediately if black scab found.",
+    "when_to_see_doctor_ta": "கருப்பு வடு இருந்தால் உடனே."
+  },
+  "Japanese Encephalitis": {
+    "title_en": "Japanese Encephalitis",
+    "title_ta": "ஜப்பானிய மூளைக்காய்ச்சல்",
+    "description_en": "Viral brain infection spread by mosquitoes.",
+    "description_ta": "கொசுக்களால் பரவும் மூளை தொற்று.",
+    "first_aid_en": [
+      "Reduce fever with sponging.",
+      "Keep patient safe during fits.",
+      "Hospitalize immediately."
+    ],
+    "first_aid_ta": [
+      "காய்ச்சலை குறைக்க ஈரத்துணியால் துடைக்கவும்.",
+      "வலிப்பின் போது பாதுகாக்கவும்.",
+      "உடனே மருத்துவமனையில் சேர்க்கவும்."
+    ],
+    "when_to_see_doctor_en": "IMMEDIATELY (Emergency).",
+    "when_to_see_doctor_ta": "உடனடியாக (அவசரம்)."
+  },
+  "Leptospirosis": {
+    "title_en": "Leptospirosis (Rat Fever)",
+    "title_ta": "எலிக்காய்ச்சல்",
+    "description_en": "Bacterial infection from animal urine in water.",
+    "description_ta": "விலங்கு சிறுநீர் கலந்த நீரால் வரும் தொற்று.",
+    "first_aid_en": [
+      "Wash limbs with soap/Turmeric water after mud contact.",
+      "Rest and hydrate.",
+      "Monitor eyes."
+    ],
+    "first_aid_ta": [
+      "சேற்றில் பட்ட இடங்களை சோப்பு அல்லது மஞ்சள் நீரால் கழுவவும்.",
+      "ஓய்வு எடுக்கவும்.",
+      "கண்களை கண்காணிக்கவும்."
+    ],
+    "when_to_see_doctor_en": "If red eyes/muscle pain occur.",
+    "when_to_see_doctor_ta": "கண் சிவத்தல்/தசை வலி இருந்தால்."
+  },
+  "Typhoid Fever": {
+    "title_en": "Typhoid Fever",
+    "title_ta": "டைபாய்டு காய்ச்சல்",
+    "description_en": "Water-borne bacterial infection causing sustained fever.",
+    "description_ta": "அசுத்த நீர் மூலம் பரவும் தொடர் காய்ச்சல் நோய்.",
+    "first_aid_en": [
+      "Drink boiled and cooled water.",
+      "Eat soft food (Porridge/Idli).",
+      "Maintain hygiene."
+    ],
+    "first_aid_ta": [
+      "நன்கு காய்ச்சி ஆறவைத்த நீரை குடிக்கவும்.",
+      "மென்மையான உணவு (கஞ்சி/இட்லி) உண்ணவும்.",
+      "சுகாதாரம்."
+    ],
+    "when_to_see_doctor_en": "If fever > 3 days.",
+    "when_to_see_doctor_ta": "காய்ச்சல் 3 நாட்களுக்கு மேல் இருந்தால்."
+  },
+  "Cholera": {
+    "title_en": "Cholera",
+    "title_ta": "காலரா",
+    "description_en": "Severe watery diarrhea leading to rapid dehydration.",
+    "description_ta": "கடுமையான நீர் வயிற்றுப்போக்கு மற்றும் நீர்ச்சத்து இழப்பு.",
+    "first_aid_en": [
+      "Start ORS immediately.",
+      "Drink salted rice water or tender coconut.",
+      "Breastfeed infants."
+    ],
+    "first_aid_ta": [
+      "உடனே ORS குடிக்கவும்.",
+      "உப்பு கஞ்சி அல்லது இளநீர் குடிக்கவும்.",
+      "தாய்ப்பால் தொடரவும்."
+    ],
+    "when_to_see_doctor_en": "IMMEDIATELY.",
+    "when_to_see_doctor_ta": "உடனடியாக."
+  },
+  "Acute Gastroenteritis": {
+    "title_en": "Acute Gastroenteritis",
+    "title_ta": "வயிற்றுப்போக்கு மற்றும் வாந்தி",
+    "description_en": "Stomach infection causing vomiting and diarrhea.",
+    "description_ta": "வாந்தி மற்றும் வயிற்றுப்போக்கை ஏற்படுத்தும் வயிற்று தொற்று.",
+    "first_aid_en": [
+      "Hydrate often.",
+      "Eat bland diet (Curd rice).",
+      "Avoid milk."
+    ],
+    "first_aid_ta": [
+      "அடிக்கடி நீர் அருந்தவும்.",
+      "தயிர் சாதம் போன்ற எளிய உணவு.",
+      "பால் தவிர்க்கவும்."
+    ],
+    "when_to_see_doctor_en": "If dehydration signs appear.",
+    "when_to_see_doctor_ta": "நீர்ச்சத்து குறைவு அறிகுறிகள் இருந்தால்."
+  },
+  "Amoebic Dysentery": {
+    "title_en": "Amoebic Dysentery",
+    "title_ta": "சீதபேதி",
+    "description_en": "Intestinal infection causing bloody/mucus diarrhea.",
+    "description_ta": "ரத்தம்/சளி கலந்த வயிற்றுப்போக்கை ஏற்படுத்தும் குடல் தொற்று.",
+    "first_aid_en": [
+      "Drink fluids.",
+      "Maintain hygiene.",
+      "Medical treatment needed."
+    ],
+    "first_aid_ta": [
+      "திரவம் அருந்தவும்.",
+      "சுகாதாரம்.",
+      "மருத்துவ சிகிச்சை தேவை."
+    ],
+    "when_to_see_doctor_en": "Always requires antibiotics.",
+    "when_to_see_doctor_ta": "எப்போதும் மருந்து தேவை."
+  },
+  "Bacillary Dysentery": {
+    "title_en": "Bacillary Dysentery",
+    "title_ta": "ரத்த பேதி",
+    "description_en": "Bacterial infection causing severe bloody diarrhea.",
+    "description_ta": "கடுமையான ரத்த பேதியை ஏற்படுத்தும் பாக்டீரியா தொற்று.",
+    "first_aid_en": [
+      "Drink ORS.",
+      "Hydrate.",
+      "See doctor."
+    ],
+    "first_aid_ta": [
+      "ORS குடிக்கவும்.",
+      "நீர் அருந்தவும்.",
+      "மருத்துவரை பார்க்கவும்."
+    ],
+    "when_to_see_doctor_en": "Immediately.",
+    "when_to_see_doctor_ta": "உடனடியாக."
+  },
+  "Hepatitis A": {
+    "title_en": "Hepatitis A",
+    "title_ta": "மஞ்சள் காமாலை (A)",
+    "description_en": "Liver infection causing jaundice.",
+    "description_ta": "மஞ்சள் காமாலையை ஏற்படுத்தும் கல்லீரல் தொற்று.",
+    "first_aid_en": [
+      "Rest completely.",
+      "Eat strict fat-free diet (Keezhanelli herbal remedy often used).",
+      "Drink water."
+    ],
+    "first_aid_ta": [
+      "முழு ஓய்வு.",
+      "கொழுப்பு இல்லாத உணவு (கீாநெல்லி அதிகம் பயன்படுத்துவர்).",
+      "நீர் அருந்தவும்."
+    ],
+    "when_to_see_doctor_en": "For diagnosis and monitoring.",
+    "when_to_see_doctor_ta": "பரிசோதனைக்கு."
+  },
+  "Hepatitis E": {
+    "title_en": "Hepatitis E",
+    "title_ta": "மஞ்சள் காமாலை (E)",
+    "description_en": "Water-borne liver infection.",
+    "description_ta": "நீர் மூலம் பரவும் கல்லீரல் தொற்று.",
+    "first_aid_en": [
+      "Rest.",
+      "Drink boiled water only.",
+      "Avoid alcohol."
+    ],
+    "first_aid_ta": [
+      "ஓய்வு.",
+      "காய்ச்சிய நீர் மட்டும்.",
+      "மது தவிர்க்கவும்."
+    ],
+    "when_to_see_doctor_en": "If pregnant (high risk).",
+    "when_to_see_doctor_ta": "கர்ப்பிணியாக இருந்தால் (ஆபத்து)."
+  },
+  "Giardiasis": {
+    "title_en": "Giardiasis",
+    "title_ta": "குடல் தொற்று (Giardia)",
+    "description_en": "Parasitic infection causing greasy diarrhea.",
+    "description_ta": "பிசுபிசுப்பான வயிற்றுப்போக்கை ஏற்படுத்தும் ஒட்டுண்ணி.",
+    "first_aid_en": [
+      "Hydration.",
+      "Hygiene.",
+      "Wash hands thoroughly."
+    ],
+    "first_aid_ta": [
+      "நீர்ச்சத்து.",
+      "சுகாதாரம்.",
+      "நன்கு கை கழுவுதல்."
+    ],
+    "when_to_see_doctor_en": "If diarrhea persists > 1 week.",
+    "when_to_see_doctor_ta": "வயிற்றுப்போக்கு 1 வாரத்திற்கு மேல் இருந்தால்."
+  },
+  "Roundworm Infestation": {
+    "title_en": "Roundworm",
+    "title_ta": "உருளைப்புழு",
+    "description_en": "Worms in intestine affecting nutrition.",
+    "description_ta": "சத்துக்களை பாதிக்கும் குடல் புழுக்கள்.",
+    "first_aid_en": [
+      "Take de-worming medication.",
+      "Maintain hygiene."
+    ],
+    "first_aid_ta": [
+      "குடற்புழு நீக்க மருந்து எடுக்கவும்.",
+      "சுகாதாரம்."
+    ],
+    "when_to_see_doctor_en": "For prescription (Albendazole).",
+    "when_to_see_doctor_ta": "மருந்து சீட்டுக்கு."
+  },
+  "Hookworm Infection": {
+    "title_en": "Hookworm",
+    "title_ta": "கொக்கிப்புழு",
+    "description_en": "Parasite entering through feet causing anemia.",
+    "description_ta": "பாதம் வழியாக நுழைந்து ரத்த சோகையை ஏற்படுத்தும் புழு.",
+    "first_aid_en": [
+      "Eat iron-rich food (Spinach, Dates).",
+      "Wear footwear always."
+    ],
+    "first_aid_ta": [
+      "இரும்புச்சத்து உணவு (கீரை, பேரீச்சை) உண்ணவும்.",
+      "எப்போதும் செருப்பு அணியவும்."
+    ],
+    "when_to_see_doctor_en": "For anemia treatment.",
+    "when_to_see_doctor_ta": "ரத்த சோகை சிகிச்சைக்கு."
+  },
+  "Food Poisoning": {
+    "title_en": "Food Poisoning",
+    "title_ta": "உணவு நச்சு",
+    "description_en": "Illness from contaminated food.",
+    "description_ta": "கெட்டுப்போன உணவால் வரும் நோய்.",
+    "first_aid_en": [
+      "Rest stomach.",
+      "Drink ginger tea or warm water.",
+      "Sip fluids."
+    ],
+    "first_aid_ta": [
+      "வயிற்றுக்கு ஓய்வு.",
+      "இஞ்சி டீ அல்லது வெந்நீர் குடிக்கவும்.",
+      "சிறிது நீர் அருந்தவும்."
+    ],
+    "when_to_see_doctor_en": "If bloody vomit/stools.",
+    "when_to_see_doctor_ta": "ரத்த வாந்தி/பேதி இருந்தால்."
+  },
+  "Common Cold": {
+    "title_en": "Common Cold",
+    "title_ta": "சளி / ஜலதோஷம்",
+    "description_en": "Viral nose/throat infection.",
+    "description_ta": "மூக்கு/தொண்டை வைரஸ் தொற்று.",
+    "first_aid_en": [
+      "Steam inhalation with Turmeric.",
+      "Drink warm ginger/pepper water.",
+      "Rest."
+    ],
+    "first_aid_ta": [
+      "மஞ்சள் கலந்து ஆவி பிடிக்கவும்.",
+      "இஞ்சி/மிளகு பால் குடிக்கவும்.",
+      "ஓய்வு."
+    ],
+    "when_to_see_doctor_en": "If breathing hard.",
+    "when_to_see_doctor_ta": "மூச்சு விட சிரமப்பட்டால்."
+  },
+  "Influenza": {
+    "title_en": "Influenza (Flu)",
+    "title_ta": "ஃப்ளூ காய்ச்சல்",
+    "description_en": "Viral infection with high fever and aches.",
+    "description_ta": "அதிக காய்ச்சல், உடல் வலி தரும் வைரஸ்.",
+    "first_aid_en": [
+      "Rest.",
+      "Drink plenty of fluids.",
+      "Take Paracetamol."
+    ],
+    "first_aid_ta": [
+      "ஓய்வு.",
+      "நிறைய திரவங்கள் குடிக்கவும்.",
+      "பாராசிட்டமால் எடுக்கவும்."
+    ],
+    "when_to_see_doctor_en": "High fever > 3 days.",
+    "when_to_see_doctor_ta": "அதிக காய்ச்சல் 3 நாட்களுக்கு மேல்."
+  },
+  "Tuberculosis": {
+    "title_en": "Tuberculosis (TB)",
+    "title_ta": "காசநோய் (TB)",
+    "description_en": "Lung infection causing long-term cough.",
+    "description_ta": "நீண்ட நாள் இருமல் தரும் நுரையீரல் தொற்று.",
+    "first_aid_en": [
+      "Cover mouth while coughing.",
+      "Eat nutritious food.",
+      "Keep distance from kids."
+    ],
+    "first_aid_ta": [
+      "இரும்பும்போது வாயை மூடவும்.",
+      "சத்தான உணவு உண்ணவும்.",
+      "குழந்தைகளிடம் இருந்து தள்ளி இருக்கவும்."
+    ],
+    "when_to_see_doctor_en": "Cough > 2 weeks.",
+    "when_to_see_doctor_ta": "2 வாரத்திற்கு மேல் இருமல்."
+  },
+  "Bronchitis": {
+    "title_en": "Bronchitis",
+    "title_ta": "மார்புச் சளி",
+    "description_en": "Inflammation of airways causing cough/mucus.",
+    "description_ta": "மூச்சுக்குழாய் வீக்கம், இருமல்/சளி வரும்.",
+    "first_aid_en": [
+      "Steam inhalation.",
+      "Drink warm water.",
+      "Avoid smoke/dust."
+    ],
+    "first_aid_ta": [
+      "ஆவி பிடிக்கவும்.",
+      "வெந்நீர் குடிக்கவும்.",
+      "புகை/தூசு தவிர்க்கவும்."
+    ],
+    "when_to_see_doctor_en": "If wheezing occurs.",
+    "when_to_see_doctor_ta": "மூச்சு இரைப்பு இருந்தால்."
+  },
+  "Asthma": {
+    "title_en": "Asthma",
+    "title_ta": "ஆஸ்துமா",
+    "description_en": "Chronic condition causing breathing difficulty.",
+    "description_ta": "மூச்சு விடுவதில் சிரமம் தரும் நோய்.",
+    "first_aid_en": [
+      "Sit upright.",
+      "Use prescribed inhaler.",
+      "Stay calm."
+    ],
+    "first_aid_ta": [
+      "நிமிர்ந்து உட்காரவும்.",
+      "இன்ஹேலர் உபயோகிக்கவும்.",
+      "அமைதியாக இருக்கவும்."
+    ],
+    "when_to_see_doctor_en": "If inhaler doesn't help.",
+    "when_to_see_doctor_ta": "இன்ஹேலர் உதவவில்லை என்றால்."
+  },
+  "Pneumonia": {
+    "title_en": "Pneumonia",
+    "title_ta": "நிமோனியா",
+    "description_en": "Lung infection with fluid/pus.",
+    "description_ta": "நுரையீரல் தொற்று, நீர்/சீழ் கோர்த்தல்.",
+    "first_aid_en": [
+      "Do not suppress cough.",
+      "Drink warm fluids.",
+      "Rest."
+    ],
+    "first_aid_ta": [
+      "இருமலை அடக்காதீர்.",
+      "வெதுவெதுப்பான நீர் குடிக்கவும்.",
+      "ஓய்வு."
+    ],
+    "when_to_see_doctor_en": "Difficulty breathing/Chest pain.",
+    "when_to_see_doctor_ta": "மூச்சு திணறல்/நெஞ்சு வலி."
+  },
+  "Whooping Cough": {
+    "title_en": "Whooping Cough",
+    "title_ta": "கக்குவான் இருமல்",
+    "description_en": "Severe cough with 'whoop' sound.",
+    "description_ta": "வித்தியாசமான ஒலியுடன் வரும் கடும் இருமல்.",
+    "first_aid_en": [
+      "Eat small meals.",
+      "Drink fluids.",
+      "Keep air clean."
+    ],
+    "first_aid_ta": [
+      "சிறிய அளவில் உணவு உண்ணவும்.",
+      "திரவங்கள் குடிக்கவும்.",
+      "சுத்தமான காற்று."
+    ],
+    "when_to_see_doctor_en": "For antibiotics.",
+    "when_to_see_doctor_ta": "மருந்துகளுக்கு."
+  },
+  "Tonsillitis": {
+    "title_en": "Tonsillitis",
+    "title_ta": "டான்சிலிடிஸ்",
+    "description_en": "Swollen tonsils causing throat pain.",
+    "description_ta": "தொண்டை சதை வீக்கம்.",
+    "first_aid_en": [
+      "Gargle salt water.",
+      "Eat cold treats.",
+      "Rest voice."
+    ],
+    "first_aid_ta": [
+      "உப்பு நீர் கொப்பளிக்கவும்.",
+      "குளிர்ந்த உணவு உண்ணவும்.",
+      "பேசாமல் ஓய்வு எடுக்கவும்."
+    ],
+    "when_to_see_doctor_en": "Severe pain/fever.",
+    "when_to_see_doctor_ta": "கடும் வலி/காய்ச்சல்."
+  },
+  "Viral Pharyngitis": {
+    "title_en": "Viral Pharyngitis",
+    "title_ta": "தொண்டை வலி (வைரஸ்)",
+    "description_en": "Sore throat from virus.",
+    "description_ta": "வைரஸால் வரும் தொண்டை வலி.",
+    "first_aid_en": [
+      "Gargle with salt water.",
+      "Suck on lozenges.",
+      "Hydrate."
+    ],
+    "first_aid_ta": [
+      "உப்பு நீர் கொப்பளிக்கவும்.",
+      "மிட்டாய் சப்பவும்.",
+      "நீர் அருந்தவும்."
+    ],
+    "when_to_see_doctor_en": "If spots on tonsils.",
+    "when_to_see_doctor_ta": "டான்சிலில் புள்ளி இருந்தால்."
+  },
+  "Scabies": {
+    "title_en": "Scabies",
+    "title_ta": "சிரங்கு",
+    "description_en": "Itchy skin from mites.",
+    "description_ta": "பூச்சிகளால் வரும் தோல் அரிப்பு.",
+    "first_aid_en": [
+      "Wash clothes in hot water.",
+      "Neem/Turmeric paste can soothe itching.",
+      "Treat whole family."
+    ],
+    "first_aid_ta": [
+      "ஆடையை சுடுநீரில் அலசவும்.",
+      "வேப்பிலை/மஞ்சள் அரிப்பை குறைக்கும்.",
+      "குடும்ப சிகிச்சை தேவை."
+    ],
+    "when_to_see_doctor_en": "For Permethrin lotion prescription.",
+    "when_to_see_doctor_ta": "மருந்து (Permethrin) வாங்க."
+  },
+  "Impetigo": {
+    "title_en": "Impetigo",
+    "title_ta": "இம்பெடிகோ",
+    "description_en": "Contagious skin sores.",
+    "description_ta": "பரவும் தோல் புண்கள்.",
+    "first_aid_en": [
+      "Wash sores gently with Neem water or soap.",
+      "Cover sores.",
+      "Cut nails."
+    ],
+    "first_aid_ta": [
+      "புண்ணை வேப்பிலை நீர் அல்லது சோப்பு போட்டு கழுவவும்.",
+      "புண்ணை மூடி வைக்கவும்.",
+      "நகம் வெட்டவும்."
+    ],
+    "when_to_see_doctor_en": "Spreading sores.",
+    "when_to_see_doctor_ta": "புண்கள் பரவினால்."
+  },
+  "Ringworm": {
+    "title_en": "Ringworm",
+    "title_ta": "படர் தாமரை",
+    "description_en": "Fungal ring rash.",
+    "description_ta": "வட்ட வடிவ பூஞ்சை தேமல்.",
+    "first_aid_en": [
+      "Keep area dry.",
+      "Apply antifungal cream or Garlic paste.",
+      "Wear loose clothes."
+    ],
+    "first_aid_ta": [
+      "ஈரம் இல்லாமல் வைக்கவும்.",
+      "பூஞ்சை மருந்து அல்லது பூண்டு விழுது தடவவும்.",
+      "தளர்வான ஆடை அணியவும்."
+    ],
+    "when_to_see_doctor_en": "Scalp infected.",
+    "when_to_see_doctor_ta": "தலையில் வந்தால்."
+  },
+  "Tinea Versicolor": {
+    "title_en": "Tinea Versicolor",
+    "title_ta": "தேமல்",
+    "description_en": "Fungal skin discoloration.",
+    "description_ta": "தோல் நிற மாற்றம் (பூஞ்சை).",
+    "first_aid_en": [
+      "Use antifungal soap.",
+      "Avoid sweating."
+    ],
+    "first_aid_ta": [
+      "பூஞ்சை சோப்பு பயன்படுத்தவும்.",
+      "வியர்வையை தவிர்க்கவும்."
+    ],
+    "when_to_see_doctor_en": "If spreading.",
+    "when_to_see_doctor_ta": "பரவினால்."
+  },
+  "Head Lice": {
+    "title_en": "Head Lice",
+    "title_ta": "பேன் தொல்லை",
+    "description_en": "Parasitic insects on scalp.",
+    "description_ta": "தலையில் உள்ள ஒட்டுண்ணி பூச்சிகள்.",
+    "first_aid_en": [
+      "Use medicated shampoo or Neem oil.",
+      "Comb out nits.",
+      "Wash bedding."
+    ],
+    "first_aid_ta": [
+      "பேன் ஷாம்பு அல்லது வேப்பெண்ணெய் தேய்க்கவும்.",
+      "சீப்பு போட்டு சீவவும்.",
+      "படுக்கை துணியை துவைக்கவும்."
+    ],
+    "when_to_see_doctor_en": "Infected sores.",
+    "when_to_see_doctor_ta": "தொற்று புண்கள்."
+  },
+  "Chickenpox": {
+    "title_en": "Chickenpox",
+    "title_ta": "சின்னம்மை",
+    "description_en": "Viral itchy blister rash.",
+    "description_ta": "அரிக்கும் கொப்புளங்கள் வரும் வைரஸ்.",
+    "first_aid_en": [
+      "Apply Calamine lotion.",
+      "Bathe with Neem leaves.",
+      "Do not scratch."
+    ],
+    "first_aid_ta": [
+      "காலமைன் லோஷன் பூசவும்.",
+      "வேப்பிலை நீரில் குளிக்கவும்.",
+      "சொறிய வேண்டாம்."
+    ],
+    "when_to_see_doctor_en": "Severe cough/fever.",
+    "when_to_see_doctor_ta": "கடும் இருமல்/காய்ச்சல்."
+  },
+  "Measles": {
+    "title_en": "Measles",
+    "title_ta": "தட்டம்மை",
+    "description_en": "Viral full body rash.",
+    "description_ta": "உடல் முழுதும் வரும் சிவப்பு தடிப்பு.",
+    "first_aid_en": [
+      "Rest.",
+      "Take Vitamin A supplements.",
+      "Drink fluids."
+    ],
+    "first_aid_ta": [
+      "ஓய்வு.",
+      "வைட்டமின் A மாத்திரை.",
+      "திரவங்கள்."
+    ],
+    "when_to_see_doctor_en": "Ear pain/Confusion.",
+    "when_to_see_doctor_ta": "காது வலி/குழப்பம்."
+  },
+  "Mumps": {
+    "title_en": "Mumps",
+    "title_ta": "பொன்னுக்கு வீங்கி",
+    "description_en": "Swollen salivary glands.",
+    "description_ta": "உமிழ்நீர் சுரப்பி வீக்கம்.",
+    "first_aid_en": [
+      "Eat soft foods.",
+      "Apply ginger/turmeric paste externally.",
+      "Use ice pack."
+    ],
+    "first_aid_ta": [
+      "மென் உணவு உண்ணவும்.",
+      "இஞ்சி/மஞ்சள் பற்று போடவும்.",
+      "ஐஸ் ஒத்தடம் கொடுக்கவும்."
+    ],
+    "when_to_see_doctor_en": "Painful testicles/Headache.",
+    "when_to_see_doctor_ta": "விதை வலி/தலைவலி."
+  },
+  "Boils": {
+    "title_en": "Boils",
+    "title_ta": "கட்டி",
+    "description_en": "Painful pus-filled bump.",
+    "description_ta": "வலி மிகுந்த சீழ் கட்டி.",
+    "first_aid_en": [
+      "Apply warm compress.",
+      "Apply Turmeric or Neem paste.",
+      "Do not pop it."
+    ],
+    "first_aid_ta": [
+      "வெந்நீர் ஒத்தடம் கொடுக்கவும்.",
+      "மஞ்சள் அல்லது வேப்பிலை பற்று போடவும்.",
+      "உடைக்க வேண்டாம்."
+    ],
+    "when_to_see_doctor_en": "Fever/Red streaks.",
+    "when_to_see_doctor_ta": "காய்ச்சல்/சிவப்பு கோடு."
+  },
+  "Cellulitis": {
+    "title_en": "Cellulitis",
+    "title_ta": "தோல் அழற்சி",
+    "description_en": "Spreading skin infection.",
+    "description_ta": "பரவும் தோல் தொற்று.",
+    "first_aid_en": [
+      "Mark redness area.",
+      "Elevate limb.",
+      "Clean wound."
+    ],
+    "first_aid_ta": [
+      "சிவப்பை குறித்து வைக்கவும்.",
+      "உயர்த்தி வைக்கவும்.",
+      "காயம் சுத்தம் செய்யவும்."
+    ],
+    "when_to_see_doctor_en": "IMMEDIATELY.",
+    "when_to_see_doctor_ta": "உடனடியாக."
+  },
+  "Prickly Heat": {
+    "title_en": "Prickly Heat",
+    "title_ta": "வேர்க்குரு",
+    "description_en": "Heat rash from sweat.",
+    "description_ta": "வியர்வையால் வரும் வேர்க்குரு.",
+    "first_aid_en": [
+      "Take cool bath.",
+      "Wear loose clothes.",
+      "Apply Sandalwood paste."
+    ],
+    "first_aid_ta": [
+      "குளிர்ந்த குளியல்.",
+      "தளர்வான ஆடை.",
+      "சந்தனம் பூசவும்."
+    ],
+    "when_to_see_doctor_en": "Pus/Fever.",
+    "when_to_see_doctor_ta": "சீழ்/காய்ச்சல்."
+  },
+  "Snake Bite (Cobra/Krait)": {
+    "title_en": "Snake Bite (Cobra/Krait)",
+    "title_ta": "பாம்பு கடி (நல்ல பாம்பு)",
+    "description_en": "Neurotoxic bite causing paralysis.",
+    "description_ta": "நரம்பை பாதிக்கும் விஷ கடி.",
+    "first_aid_en": [
+      "Immobilize limb.",
+      "Stay calm.",
+      "Transport to hospital."
+    ],
+    "first_aid_ta": [
+      "கடித்த இடத்தை அசைக்காதே.",
+      "அமைதி.",
+      "மருத்துவமனைக்கு கொண்டு செல்."
+    ],
+    "when_to_see_doctor_en": "EMERGENCY.",
+    "when_to_see_doctor_ta": "அவசரம்."
+  },
+  "Snake Bite (Viper)": {
+    "title_en": "Snake Bite (Viper)",
+    "title_ta": "பாம்பு கடி (விரியன்)",
+    "description_en": "Haemotoxic bite causing bleeding.",
+    "description_ta": "ரத்தத்தை பாதிக்கும் விஷ கடி.",
+    "first_aid_en": [
+      "Immobilize.",
+      "No ice/cutting.",
+      "Go to Hospital."
+    ],
+    "first_aid_ta": [
+      "அசைக்காதே.",
+      "ஐஸ்/வெட்டு வேண்டாம்.",
+      "மருத்துவமனைக்கு செல்."
+    ],
+    "when_to_see_doctor_en": "EMERGENCY.",
+    "when_to_see_doctor_ta": "அவசரம்."
+  },
+  "Scorpion Sting": {
+    "title_en": "Scorpion Sting",
+    "title_ta": "தேள் கடி",
+    "description_en": "Painful sting.",
+    "description_ta": "வலி மிகுந்த கடி.",
+    "first_aid_en": [
+      "Apply Ice pack.",
+      "Apply Turmeric/Salt paste.",
+      "Elevate."
+    ],
+    "first_aid_ta": [
+      "ஐஸ் ஒத்தடம்.",
+      "மஞ்சள்/உப்பு பற்று.",
+      "உயர்த்தி வை."
+    ],
+    "when_to_see_doctor_en": "Child victim/Sweating.",
+    "when_to_see_doctor_ta": "குழந்தை/வியர்வை."
+  },
+  "Dog Bite": {
+    "title_en": "Dog Bite",
+    "title_ta": "நாய் கடி",
+    "description_en": "Risk of Rabies.",
+    "description_ta": "ரேபிஸ் ஆபத்து.",
+    "first_aid_en": [
+      "Wash wound for 15 mins with soap.",
+      "Apply antiseptic (Betadine) or Turmeric powder.",
+      "Get Vaccine."
+    ],
+    "first_aid_ta": [
+      "15 நிமிடம் சோப்பு போட்டு கழுவவும்.",
+      "கிருமி நாசினி (Betadine) அல்லது மஞ்சள் தூள் தடவவும்.",
+      "தடுப்பூசி போடவும்."
+    ],
+    "when_to_see_doctor_en": "Immediately.",
+    "when_to_see_doctor_ta": "உடனடியாக."
+  },
+  "Heat Stroke": {
+    "title_en": "Heat Stroke",
+    "title_ta": "வெப்ப வாதம்",
+    "description_en": "Overheating emergency.",
+    "description_ta": "வெப்ப பாதிப்பு அவசரம்.",
+    "first_aid_en": [
+      "Cool down body.",
+      "Use wet cloth.",
+      "Move to shade."
+    ],
+    "first_aid_ta": [
+      "உடலை குளிர வை.",
+      "ஈர துணி.",
+      "நிழலுக்கு செல்."
+    ],
+    "when_to_see_doctor_en": "Unconscious.",
+    "when_to_see_doctor_ta": "மயக்கம்."
+  },
+  "Pesticide Poisoning": {
+    "title_en": "Pesticide Poisoning",
+    "title_ta": "பூச்சிக்கொல்லி விஷம்",
+    "description_en": "Toxic chemical exposure.",
+    "description_ta": "விஷ மருந்து பாதிப்பு.",
+    "first_aid_en": [
+      "Move to fresh air.",
+      "Wash skin thoroughly.",
+      "Remove clothes."
+    ],
+    "first_aid_ta": [
+      "சுத்தமான காற்றுக்கு செல்.",
+      "தோலை நன்கு கழுவு.",
+      "ஆடையை அகற்று."
+    ],
+    "when_to_see_doctor_en": "EMERGENCY.",
+    "when_to_see_doctor_ta": "அவசரம்."
+  },
+  "Conjunctivitis": {
+    "title_en": "Conjunctivitis",
+    "title_ta": "மெட்ராஸ் ஐ",
+    "description_en": "Eye infection.",
+    "description_ta": "கண் தொற்று.",
+    "first_aid_en": [
+      "Wash eyes with clean water.",
+      "Don't touch.",
+      "Use separate towel."
+    ],
+    "first_aid_ta": [
+      "கண் கழுவு.",
+      "தொடாதே.",
+      "தனி துண்டு."
+    ],
+    "when_to_see_doctor_en": "Vision blurry.",
+    "when_to_see_doctor_ta": "பார்வை மங்கல்."
+  },
+  "Otitis Media": {
+    "title_en": "Otitis Media",
+    "title_ta": "காது தொற்று",
+    "description_en": "Middle ear infection.",
+    "description_ta": "நடுக் காது தொற்று.",
+    "first_aid_en": [
+      "Warm compress.",
+      "Keep ear dry.",
+      "Painkillers."
+    ],
+    "first_aid_ta": [
+      "வெதுவெதுப்பான ஒத்தடம்.",
+      "காது ஈரம் படாமல் வை.",
+      "வலி நிவாரணி."
+    ],
+    "when_to_see_doctor_en": "Discharge/Fever.",
+    "when_to_see_doctor_ta": "வடிதல்/காய்ச்சல்."
+  },
+  "Urinary Tract Infection": {
+    "title_en": "UTI",
+    "title_ta": "சிறுநீர் தொற்று",
+    "description_en": "Bladder infection.",
+    "description_ta": "சிறுநீர்ப்பை தொற்று.",
+    "first_aid_en": [
+      "Drink plenty of water.",
+      "Drink Barley water/Cranberry juice.",
+      "Maintain hygiene."
+    ],
+    "first_aid_ta": [
+      "நிறைய தண்ணீர் குடிக்கவும்.",
+      "பார்லி தண்ணீர் குடிக்கவும்.",
+      "சுகாதாரம்."
+    ],
+    "when_to_see_doctor_en": "Back pain/Fever.",
+    "when_to_see_doctor_ta": "முதுகு வலி/காய்ச்சல்."
+  },
+  "Appendicitis": {
+    "title_en": "Appendicitis",
+    "title_ta": "குடல் வால் அழற்சி",
+    "description_en": "Inflamed appendix.",
+    "description_ta": "குடல் வால் வீக்கம்.",
+    "first_aid_en": [
+      "No food/water.",
+      "No painkillers.",
+      "Go to Hospital."
+    ],
+    "first_aid_ta": [
+      "உணவு/நீர் வேண்டாம்.",
+      "வலி மாத்திரை வேண்டாம்.",
+      "மருத்துவமனை."
+    ],
+    "when_to_see_doctor_en": "EMERGENCY.",
+    "when_to_see_doctor_ta": "அவசரம்."
+  },
+  "Anemia": {
+    "title_en": "Anemia",
+    "title_ta": "ரத்த சோகை",
+    "description_en": "Low iron/blood.",
+    "description_ta": "இரும்புச்சத்து குறைவு.",
+    "first_aid_en": [
+      "Eat Dates, Moringa (Drumstick leaves).",
+      "Cook in iron vessels.",
+      "No tea with meals."
+    ],
+    "first_aid_ta": [
+      "பேரீச்சை, முருங்கை கீரை உண்ணவும்.",
+      "இரும்பு பாத்திரத்தில் சமைக்கவும்.",
+      "உணவுடன் டீ வேண்டாம்."
+    ],
+    "when_to_see_doctor_en": "Breathless/Faint.",
+    "when_to_see_doctor_ta": "மூச்சு திணறல்/மயக்கம்."
+  },
+  "Dental Abscess": {
+    "title_en": "Dental Abscess",
+    "title_ta": "பல் சீழ்",
+    "description_en": "Pus pocket in tooth.",
+    "description_ta": "பல்லில் சீழ்.",
+    "first_aid_en": [
+      "Salt water rinse.",
+      "Apply Clove oil.",
+      "Cold compress."
+    ],
+    "first_aid_ta": [
+      "உப்பு நீர் வாய் கொப்பளி.",
+      "கிராம்பு எண்ணெய் தடவு.",
+      "குளிர்ந்த ஒத்தடம்."
+    ],
+    "when_to_see_doctor_en": "Swelling/Fever.",
+    "when_to_see_doctor_ta": "வீக்கம்/காய்ச்சல்."
+  }
+}
